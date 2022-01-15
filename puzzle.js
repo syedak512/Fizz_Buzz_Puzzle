@@ -1,3 +1,4 @@
+
 function puzzle(number) {
     // a loop to go thorough all the numbers from 1 to number in parameter
     for(i=1; i <= number; i++) {
@@ -24,3 +25,5 @@ function puzzle(number) {
  }
  puzzle(100)
  
+//Team 2 worked on this puzzle as a group, along with some of their new members. We held a group dicussion and talked about the puzzle's
+//solution. 
