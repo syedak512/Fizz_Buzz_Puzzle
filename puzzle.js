@@ -25,5 +25,4 @@ function puzzle(number) {
  }
  puzzle(100)
  
-//Team 2 worked on this puzzle as a group, along with some of their new members. We held a group dicussion and talked about the puzzle's
-//solution. 
+ 
